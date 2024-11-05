@@ -18,7 +18,7 @@ const ContinueWatching = () => {
       avatarCount: 3,
     },
     {
-      courseId: 101,
+      courseId: 102,
       videoId: 2,
       title: "Automating Infrastructure with Terraform",
       category: "Terraform",
@@ -29,7 +29,7 @@ const ContinueWatching = () => {
       avatarCount: 2,
     },
     {
-      courseId: 101,
+      courseId: 103,
       videoId: 3,
       title: "Advanced Python for Backend Development",
       category: "Python",
@@ -40,7 +40,7 @@ const ContinueWatching = () => {
     },
     // New Cards
     {
-      courseId: 101,
+      courseId: 104,
       videoId: 3,
       title: "Building Scalable Apps with Python Flask",
       category: "Python",
@@ -49,7 +49,7 @@ const ContinueWatching = () => {
       avatarCount: 5,
     },
     {
-      courseId: 101,
+      courseId: 105,
       videoId: 3,
       title: "Terraform for AWS Infrastructure Management",
       category: "Terraform",
@@ -58,7 +58,7 @@ const ContinueWatching = () => {
       avatarCount: 4,
     },
     {
-      courseId: 101,
+      courseId: 106,
       videoId: 3,
       title: "Full-Stack Development with Python and Flask",
       category: "Full Stack",
